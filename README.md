@@ -5,7 +5,7 @@
 ### Update these parameters in `project.__init__.py`
 
 ```python
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __description__ = "Project description"
 __author__ = "David McKim"
 __author_email__ = "davidmckim@gmail.com"
